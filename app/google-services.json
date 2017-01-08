@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596433558071",
+    "firebase_url": "https://malhar-2k17.firebaseio.com",
+    "project_id": "malhar-2k17",
+    "storage_bucket": "malhar-2k17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596433558071:android:e6faa3f3391305a6",
+        "android_client_info": {
+          "package_name": "badarkhe.gaurav.andorid.apps.com.malhar2k17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596433558071-6r4b0hd3nj77jkdsnmna5m33et4fatcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsQ_iRb23u21LOxj09-XGfXIbC1_nexPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

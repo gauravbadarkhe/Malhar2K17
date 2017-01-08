@@ -1,0 +1,54 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="badarkhe.gaurav.andorid.apps.com.malhar2k17.home.Home">
+    <!--<item-->
+    <!--android:id="@+id/action_settings"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="Create Event"-->
+    <!--app:showAsAction="never" />-->
+
+
+    <item
+        android:id="@+id/about_text"
+        android:orderInCategory="100"
+        android:title="About App"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_team"
+        android:orderInCategory="100"
+        android:title="About Team"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_2016"
+        android:orderInCategory="100"
+        android:title="Malhar 2016"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_fb"
+        android:orderInCategory="100"
+        android:title="We'r on Facebook"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_insta"
+        android:orderInCategory="100"
+        android:title="We'r on Instagram"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_email"
+        android:orderInCategory="100"
+        android:title="Email us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="Logout" />
+</menu>
